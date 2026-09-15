@@ -1,8 +1,8 @@
 ### Hi there, nice to meet you! 👋 
 
 - 🔭 I’m currently working on generalization in computer vision and vision-language models.
-- 🌱 I’m also working on robotics, including generalization in robot learning and vision language action models.
-- 🏫 I am a 4th-year direct Ph.D. student at Xi'an Jiaotong University.
+- 🌱 I’m also working on robotics, including generalization in robot learning and vision-language-action models.
+- 🏫 I am a final-year direct Ph.D. student at Xi'an Jiaotong University.
 
 <!-- <details>
   <summary>My GitHub Stats</summary>
